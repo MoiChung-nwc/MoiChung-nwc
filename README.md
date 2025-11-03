@@ -1,23 +1,4 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23687
-Fork on GitHub
-8115
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Moi Chung</h1>
 <h3 align="center">As a Java Back-End Developer, I specialize in building scalable, secure, and high-performance server-side applications. My work focuses on designing robust APIs, managing databases efficiently, and ensuring seamless integration between front-end interfaces and backend logic. With a strong foundation in Java and a passion for clean architecture, I strive to create systems that are both maintainable and optimized for real-world demands.</h3>
 
@@ -38,27 +19,6 @@ preview
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moichung-nwc&show_icons=true&locale=en" alt="moichung-nwc" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
 Discord of the community
 Developed in India 🇮🇳
 Buy Me A Coffee
