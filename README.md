@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/moichung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="moichung" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m%e1%bb%9bi-chung-917296365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m%e1%bb%9bi-chung-917296365/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/m%e1%bb%9bi-chung-917296365/](https://www.linkedin.com/in/m%E1%BB%9Bi-chung-917296365/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m%e1%bb%9bi-chung-917296365/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
